@@ -9,13 +9,13 @@
     background-color:#F6F8FF;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .light-header-div{
     background-color: #F6F8FF;
     display: flex;
     justify-content: space-between;
-    margin-top: 144px;
     width:730px;
 }
 
